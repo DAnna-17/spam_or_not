@@ -1,0 +1,5 @@
+data = open('spambase_new.data', "w")
+print(0)
+data.write(' ')
+print(1)
+data.close()
